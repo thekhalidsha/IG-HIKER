@@ -45,11 +45,11 @@ Because Instagram have more Servers to Find BOTs.
 Any Feedback!!
 You Can Contact Me.
 
-DARK-PHOENIX (CipherX)
-Whatsapp: http://wa.me/15817003192/
+***DARK-PHOENIX (CipherX)***
+: [Whatsapp](http://wa.me/15817003192/)
 
-CYBER-JEEVI
-Instagram : https://instagram.com/cyberjeevi/
+***CYBER-JEEVI***
+: [Instagram](https://instagram.com/cyberjeevi/)
 
 INSTALLATION:
 ```
