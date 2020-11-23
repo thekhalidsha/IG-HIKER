@@ -57,7 +57,6 @@ bash install.sh
 '''
 
 Usage:
-'''
-ighiker
-'''
+> ighiker
+
 use the above usage cmd from anywhere to start bot!!
