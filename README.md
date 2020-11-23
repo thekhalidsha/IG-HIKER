@@ -7,6 +7,7 @@ a Specified Interval of Time
 Which leads in Hiking of Your Followers Range.
 
 > Coded by : DARK PHOENIX (@thecipherx)
+
 > Thanks to : Uday Patel  (@thelinuxchoice) for Base Codes.
 
 ## IMPORTANT NOTE: 
@@ -64,4 +65,5 @@ Usage:
 
 use the above usage cmd from anywhere to start bot!!
 
-### Our BLOG : https://cna-community-forum.blogspot.com/
+***Our BLOG*** : [CNA BLOG](https://cna-community-forum.blogspot.com/)
+
