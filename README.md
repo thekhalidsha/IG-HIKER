@@ -60,3 +60,5 @@ Usage:
 > ighiker
 
 use the above usage cmd from anywhere to start bot!!
+
+### Our BLOG : https://cna-community-forum.blogspot.com/
