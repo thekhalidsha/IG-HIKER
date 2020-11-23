@@ -12,15 +12,16 @@ You Have to give Account ID of Desired Page inorder to start the Bot.
 It's a One Time Process. So You Don't have to Put the ID again and Again.
 once your ID is setten up, From the Next Time you Use The BOt, Just Skip Entering Page ID by Typing Enter Trice.
 
-'''
+
 EXTRAs:
+
 DON'T TRY TO CHANGE CODE.
 
 DON'T TRY TO CHEAT SCRIPT.
 
-DON'T EVER USE THIS TOOL,
+TOOL REQUIRES STABLE INTERNET.
  
-WHEN YOUR PHONE IS NOT IN CORRECT STABILITY.
+DON'T EVER TRY TO CHANGE VARIABLES,
 
 BCUZ EVEN A SINGLE VARIATION IN TIME MAY 
 GET YOUR ACCOUNT BANNED PERMANENTLY..
