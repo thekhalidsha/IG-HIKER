@@ -47,4 +47,17 @@ Whatsapp: http://wa.me/15817003192/
 CYBER-JEEVI
 Instagram : https://instagram.com/cyberjeevi/
 
+INSTALLATION
+'''
+apt update && apt upgrade
+git clone https://github.com/thecipherx/IG-HIKER/
+cd IG-HIKER
+bash request.sh (installing packages may take some time)
+bash install.sh
+'''
 
+Usage:
+'''
+ighiker
+'''
+use the above usage cmd from anywhere to start bot!!
