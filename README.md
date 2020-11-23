@@ -6,8 +6,8 @@ It will Follow Unfollow your Desired Pages within
 a Specified Interval of Time
 Which leads in Hiking of Your Followers Range.
 
- Coded by : DARK PHOENIX (@thecipherx)
-Thanks to : Uday Patel  (@thelinuxchoice) for Base Codes.
+> Coded by : DARK PHOENIX (@thecipherx)
+> Thanks to : Uday Patel  (@thelinuxchoice) for Base Codes.
 
 ## IMPORTANT NOTE: 
 We've Added Option to add upto 3 Pages in this Bot.
