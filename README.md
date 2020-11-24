@@ -8,7 +8,7 @@ Which leads in Hiking of Your Followers Range.
 
 > Coded by : DARK PHOENIX (@thecipherx)
 
-> Thanks to : Uday Patel  (@thelinuxchoice) for Base Codes.
+> Thanks to : Uday Patel  (@thelinuxchoice) for Login Codes.
 
 ## IMPORTANT NOTE: 
 We've Added Option to add upto 3 Pages in this Bot.
