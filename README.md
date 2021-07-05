@@ -3,7 +3,7 @@
 Insta Follow UnFollow Bot.
 Follow Unfollow Bot for Instagram.
 Its a New Systematic Bot. 
-It will Follow Unfollow your Desired Pages within
+It will Follow Unfollow your Desired Mallu Pages within
 a Specified Interval of Time
 Which leads in Hiking of Your Followers Range.
 
@@ -12,10 +12,7 @@ Which leads in Hiking of Your Followers Range.
 > Thanks to : Uday Patel  (@thelinuxchoice) for Login Codes.
 
 ## IMPORTANT NOTE: 
-We've Added Option to add upto 3 Pages in this Bot.
-You Have to give Account ID of Desired Page inorder to start the Bot.
-It's a One Time Process. So You Don't have to Put the ID again and Again.
-once your ID is setten up, From the Next Time you Use The BOt, Just Skip Entering Page ID by Typing Enter Trice.
+We've Added Option 7 Mallu Celebgrams to Bot.
 
 Also: Don't Run this tool for More than 1.5Hrs else you may get banned yourself!!
 
@@ -48,7 +45,7 @@ Any Feedback!!
 You Can Contact Me.
 
 ***DARK-PHOENIX (CipherX)***
-: [Whatsapp](http://wa.me/15817003192/)
+: [Whatsapp](http://wa.me/8547481546/)
 
 ***CYBER-JEEVI***
 : [Instagram](https://instagram.com/cyberjeevi/)
@@ -67,5 +64,5 @@ Usage:
 
 use the above usage cmd from anywhere to start bot!!
 
-***Our BLOG*** : [CNA BLOG](https://cna-community-forum.blogspot.com/)
+***Our BLOG*** : [CNA BLOG](https://cyberjeevi.blogspot.com/)
 
